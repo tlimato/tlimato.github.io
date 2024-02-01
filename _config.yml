@@ -6,7 +6,7 @@ description: A brief description of your portfolio
 url: "https://tlimato.github.io" # the base hostname & protocol for your site
 
 # Build settings
-theme: jekyll-theme-minimal # You can choose a different theme based on your preference
+theme: al-folio # You can choose a different theme based on your preference
 plugins:
   - jekyll-feed
 
